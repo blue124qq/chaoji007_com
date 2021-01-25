@@ -1,0 +1,81 @@
+#footer {
+    width: 1003px;
+     border-top:1px solid #ddd;
+	background: transparent;
+	margin:0 auto;
+}
+
+#footer .footer_content {
+    width: 1004px;
+   
+    margin: 0 auto;
+    padding: 20px 0;
+    line-height: 26px;
+    font-family: SimSun;
+    color: #5a5a5a
+}
+
+#footer .footer_content .links {
+    text-align: center;
+    height: 26px;
+    line-height: 20px;
+    width: 100%
+}
+
+#footer .footer_content .links a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #5a5a5a
+}
+
+#footer .footer_content .links span {
+    padding: 0 10px;
+    color: #ebebeb;
+}
+
+#footer .footer_content .links a:hover {
+    text-decoration: underline;
+    color: #c00
+}
+
+#footer .footer_content .copy_rights {
+    text-align: center;
+    font-size: 12px;
+    height: 28px;
+}
+
+#footer .footer_content .copy_right_info {
+    text-align: center;
+    font-size: 12px;
+    height: 30px;
+}
+
+/*手机样式*/
+#footer .footer_content .links #f_mobile{
+	display: inline-block;
+	position: relative;
+}
+#footer .footer_content .links #f_mobile:hover{
+	text-decoration: none;
+}
+#footer .footer_content .links #f_mobile #f_qrcode{
+	position: absolute;
+	left:0;
+	top:-280px;
+	display: block;
+	width:260px;
+	display: none;
+    z-index: 9;
+}
+#footer .footer_content .links #f_mobile span{
+    color: #5a5a5a
+} 
+#footer .footer_content .links #f_mobile i.f_hot{
+	font-style: normal;
+	font-size:9px;
+    color: #fff;
+    padding:2px 6px;
+    background:#f56e44;
+    border-radius:3px;
+    margin-left:-14px;
+}

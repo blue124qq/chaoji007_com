@@ -1,0 +1,439 @@
+* {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+HTML .x_logininfo A {
+	padding-right: 36px !important;
+	padding-left: 35px !important;
+}
+.clear{
+	clear: both;
+}
+UL {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+UL LI {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+BODY {
+	BACKGROUND-COLOR: #fff
+}
+HTML .x_borno {
+	BORDER-BOTTOM: medium none
+}
+.x_logininfo {
+	Z-INDEX: 1000; BORDER-BOTTOM: #e0e0e0 1px solid; POSITION: relative; BORDER-LEFT: #e0e0e0 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 10px; WIDTH: 933px; PADDING-RIGHT: 10px; FONT: 12px/28px SimSun; BACKGROUND: url(../../2011/header/images/x_navx.gif) repeat-x; HEIGHT: 28px; BORDER-TOP: #e0e0e0 1px solid; BORDER-RIGHT: #e0e0e0 1px solid; PADDING-TOP: 0px
+}
+.x_logininfo  .x_loginb{
+	text-align:center;
+}
+HTML .x_logininfo A {
+	COLOR: #666; TEXT-DECORATION: none;    padding-right: 25px;padding-left: 15px;
+}
+HTML .x_navtb A {
+	COLOR: #666; TEXT-DECORATION: none
+}
+HTML .x_logininfo A:hover {
+	COLOR: #f72c04; TEXT-DECORATION: underline
+}
+HTML .x_navtb A:hover {
+	COLOR: #f72c04; TEXT-DECORATION: underline
+}
+.x_logininfo I {
+	PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #ccc; PADDING-TOP: 0px
+}
+.x_navtb SPAN I {
+	PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #ccc; PADDING-TOP: 0px
+}
+
+.x_navxt {
+	BORDER-BOTTOM: #e0e0e0 1px solid; BORDER-LEFT: #e0e0e0 1px solid; MARGIN: 0px auto; PADDING-LEFT: 5px; WIDTH: 948px; FONT: 12px/30px SimSun; HEIGHT: 30px; CLEAR: both; BORDER-TOP: 0px; BORDER-RIGHT: #e0e0e0 1px solid
+}
+.x_input1 {
+	BORDER-BOTTOM: #e3e3e3 1px solid; BORDER-LEFT: #e3e3e3 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 19px; MARGIN-TOP: 4px; PADDING-LEFT: 4px; WIDTH: 80px; PADDING-RIGHT: 4px; FLOAT: left; HEIGHT: 18px; COLOR: #666; BORDER-TOP: #e3e3e3 1px solid; MARGIN-RIGHT: 8px; BORDER-RIGHT: #e3e3e3 1px solid; PADDING-TOP: 0px
+}
+.x_bun1 {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; LINE-HEIGHT: 21px; MARGIN-TOP: 4px; WIDTH: 38px; BACKGROUND: url(../../2011/header/images/x_navactive.gif) 0px -61px; FLOAT: left; HEIGHT: 19px; COLOR: #fff; FONT-SIZE: 12px; BORDER-TOP: 0px; CURSOR: pointer; MARGIN-RIGHT: 8px; BORDER-RIGHT: 0px
+}
+.x_logina SPAN {
+	FLOAT: left
+}
+HTML .x_navxt A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 5px; DISPLAY: inline-block; COLOR: #666; TEXT-DECORATION: none; PADDING-TOP: 0px
+}
+HTML .x_navxt A:hover {
+	COLOR: #f72c04; TEXT-DECORATION: underline
+}
+.x_boxdown {
+	PADDING-RIGHT: 12px; DISPLAY: inline; BACKGROUND: url(../../2011/header/images/x_ico1.gif) no-repeat right 5px
+}
+.x_boxtop {
+	PADDING-RIGHT: 12px; DISPLAY: inline; BACKGROUND: url(../../2011/header/images/x_ico1.gif) no-repeat right -13px
+}
+.x_navxt I {
+	FONT-STYLE: normal; COLOR: #ccc
+}
+.x_navxt .x_bold {
+	COLOR: #333; FONT-WEIGHT: bold
+}
+.x_purikura {
+	BORDER-BOTTOM: #d1d1d1 1px solid; BORDER-LEFT: #d1d1d1 1px solid; PADDING-BOTTOM: 1px; MARGIN: 2px 5px 0px 0px; PADDING-LEFT: 1px; WIDTH: 20px; PADDING-RIGHT: 1px; DISPLAY: inline; BACKGROUND: #fff; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden; BORDER-TOP: #d1d1d1 1px solid; BORDER-RIGHT: #d1d1d1 1px solid; PADDING-TOP: 1px; _margin-right: 2px
+}
+.x_logina SPAN {
+	MARGIN-RIGHT: 10px
+}
+.x_message {
+	MARGIN: 7px 5px 0px 0px; WIDTH: 15px; DISPLAY: inline-block; BACKGROUND: url(../../2011/header/images/x_ico1.gif) 0px -30px; FLOAT: left; HEIGHT: 11px
+}
+.x_navtb {
+	Z-INDEX: 1; POSITION: relative; MARGIN: 0px auto; WIDTH: 955px; HEIGHT: 41px; CLEAR: both
+}
+.x_navtb SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT: 12px/31px SimSun; FLOAT: right; PADDING-TOP: 10px
+}
+.x_navul {
+	Z-INDEX: 2; POSITION: absolute; HEIGHT: 28px; PADDING-TOP: 14px; LEFT: 181px
+}
+.x_logo {
+	FLOAT: left
+}
+HTML .x_navtb .x_logotxt {
+	TEXT-ALIGN: center; WIDTH: 106px; FONT: bold 16px/36px Microsoft YaHei; FLOAT: left; COLOR: #2a4989; TEXT-DECORATION: none; PADDING-TOP: 5px
+}
+HTML .x_navtb .x_logotxt:hover {
+	TEXT-ALIGN: center; WIDTH: 106px; FONT: bold 16px/36px Microsoft YaHei; FLOAT: left; COLOR: #2a4989; TEXT-DECORATION: none; PADDING-TOP: 5px
+}
+.x_navul LI {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: #d7d7d7 1px solid; BACKGROUND: url(../../2011/header/images/x_navx.gif) repeat-x 0px -91px; FLOAT: left; HEIGHT: 26px; BORDER-TOP: #d7d7d7 1px solid; MARGIN-RIGHT: 7px; BORDER-RIGHT: #d7d7d7 1px solid
+}
+HTML .x_navul LI A {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: inline-block; FONT: 14px/25px SimSun; COLOR: #333; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 0px
+}
+HTML .x_navul LI.active {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND: url(../../2011/header/images/x_navactive.gif) no-repeat right 0px; HEIGHT: 29px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+HTML .x_navul LI.active A {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT: bold 14px/29px SimSun; BACKGROUND: url(../../2011/header/images/x_navactive.gif) no-repeat 0px -30px; HEIGHT: 29px; COLOR: #fff; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+HTML .x_navul LI.active A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+HTML .x_navul LI A:hover {
+	COLOR: #333
+}
+.x_navdt {
+	MARGIN: 0px auto; MIN-HEIGHT: 2px; WIDTH: 955px; BACKGROUND: #3c70bf; HEIGHT: auto !important; FONT-SIZE: 0px
+}
+.x_navdt SPAN {
+	DISPLAY: block; FONT: 12px/30px SimSun; BACKGROUND: url(../../2011/header/images/x_navx.gif) repeat-x 0px -58px; HEIGHT: 30px; PADDING-TOP: 2px
+}
+HTML .x_navdt A {
+	COLOR: #fff; MARGIN-LEFT: 24px; TEXT-DECORATION: none
+}
+HTML .x_navdt A.active {
+	COLOR: #fe9900; FONT-WEIGHT: bold
+}
+HTML .x_navdt A:hover {
+	COLOR: #fe9900; TEXT-DECORATION: none
+}
+.x_mypub {
+	Z-INDEX: 1000; BORDER-BOTTOM: #d7d7d7 1px solid; POSITION: absolute; BORDER-LEFT: #d7d7d7 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 95px; PADDING-RIGHT: 5px; BACKGROUND: #fff; BORDER-TOP: 0px; TOP: 29px; BORDER-RIGHT: #d7d7d7 1px solid; PADDING-TOP: 5px; LEFT: -1px
+}
+.x_mypub LI {
+	BORDER-BOTTOM: #d7d7d7 1px solid; TEXT-ALIGN: center; LINE-HEIGHT: 28px
+}
+.x_navdt H1 {
+	DISPLAY: inline; FONT: bold 12px/30px SimSun
+}
+.xsh_city {
+	PADDING-BOTTOM: 2px; MARGIN: 10px 0px 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 25px; DISPLAY: inline-block; FONT: 12px/25px SimSun; BACKGROUND: url(../../2011/header/images/xsh_city.gif) no-repeat right 10px; FLOAT: left; CURSOR: pointer; PADDING-TOP: 4px
+}
+.xsh_city2 {
+	Z-INDEX: 100000; BORDER-BOTTOM: medium none; POSITION: absolute; BORDER-LEFT: #baceef 1px solid; PADDING-BOTTOM: 3px; MARGIN-TOP: 12px; PADDING-LEFT: 4px; PADDING-RIGHT: 25px; DISPLAY: inline-block; FONT: 12px/25px SimSun; BACKGROUND: url(../../2011/header/images/xsh_city.gif) #fff no-repeat right 7px; FLOAT: left; BORDER-TOP: #baceef 1px solid; CURSOR: pointer; BORDER-RIGHT: #baceef 1px solid; PADDING-TOP: 1px; LEFT: 195px
+}
+.x_navtb .xsh_city:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.x_navtb .xsh_city2:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+HTML .xsh_city A {
+	COLOR: #cac9ce
+}
+HTML .change_city11 A:link {
+	COLOR: #cac9ce
+}
+HTML .xsh_city A:hover {
+	COLOR: #cac9ce
+}
+.xsh_citylist {
+	Z-INDEX: 10000; BORDER-BOTTOM: #baceef 1px solid; POSITION: absolute; BORDER-LEFT: #baceef 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 290px; PADDING-RIGHT: 10px; BACKGROUND: #fff 0px 0px; FONT-SIZE: 12px; BORDER-TOP: #baceef 1px solid; TOP: 41px !important; BORDER-RIGHT: #baceef 1px solid; PADDING-TOP: 10px; LEFT: 195px
+}
+.xsh_citylist DL {
+	MARGIN: 0px; WIDTH: auto; HEIGHT: 100%; CLEAR: both; OVERFLOW: hidden
+}
+.xsh_citylist DL DT {
+	LINE-HEIGHT: 22px; HEIGHT: 22px; COLOR: #000; FONT-WEIGHT: bold
+}
+.xsh_citylist DL DD {
+	LINE-HEIGHT: 22px; WIDTH: 290px; FLOAT: left; COLOR: #ccc
+}
+.xsh_citylist IFRAME {
+	Z-INDEX: -1; POSITION: absolute; WIDTH: 320px; DISPLAY: none; HEIGHT: 120px; TOP: 0px; LEFT: 0px
+}
+.xsh_cityclose {
+	Z-INDEX: 2000000000; WIDTH: 23px; DISPLAY: block; BACKGROUND: url(../../subsite/cs/images/close.gif) no-repeat 0px 0px; FLOAT: right; HEIGHT: 12px; OVERFLOW: hidden; CURSOR: pointer
+}
+.friend_nt {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 18px; MARGIN: 0px 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; OVERFLOW: auto; PADDING-TOP: 5px
+}
+.friend_nt B {
+	LINE-HEIGHT: 36px; WIDTH: 188px; FLOAT: left; COLOR: #666
+}
+HTML .friend_nt B A {
+	DISPLAY: inline; FLOAT: none; COLOR: #666
+}
+HTML .friend_nt A {
+	WIDTH: 94px; DISPLAY: block; FLOAT: left; HEIGHT: 18px; OVERFLOW: hidden
+}
+HTML .cnet_link .friend_nt A {
+	LINE-HEIGHT: 22px; MARGIN: 0px 2px; WIDTH: auto; DISPLAY: inline; FLOAT: none; COLOR: #666
+}
+.xot_login {
+	POSITION: absolute; WIDTH: 96px; HEIGHT: 20px; TOP: 0px; LEFT: 350px
+}
+.xot_logina {
+	PADDING-LEFT: 6px; DISPLAY: block; BACKGROUND: url(../../2011/header/images/x_ico1.gif) no-repeat 60px 11px; HEIGHT: 20px; COLOR: #053299
+}
+.xot_loginb {
+	PADDING-LEFT: 6px; DISPLAY: block; BACKGROUND: url(../../2011/header/images/xot_logina.gif) no-repeat 0px -20px; HEIGHT: 20px; COLOR: #053299
+}
+.x_logininfo .xot_logina:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.x_logininfo .xot_loginb:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.xot_loginc {
+	BORDER-BOTTOM: #d0d0d0 1px solid; POSITION: absolute; BORDER-LEFT: #d0d0d0 1px solid; WIDTH: 94px; BACKGROUND: url(../../2011/header/images/xot_logina.gif) #fff no-repeat -1px -36px; BORDER-TOP: medium none; TOP: 20px; BORDER-RIGHT: #d0d0d0 1px solid; PADDING-TOP: 3px; LEFT: 0px
+}
+.x_logininfo .xot_loginc A {
+	LINE-HEIGHT: 29px; PADDING-LEFT: 29px; DISPLAY: block; COLOR: #053299
+}
+.content_nt {
+	MARGIN: 0px auto; WIDTH: 955px
+}
+.footer_nt {
+	TEXT-ALIGN: center; LINE-HEIGHT: 22px; COLOR: #666; CLEAR: both
+}
+.footer_nt A {
+	MARGIN: 0px 5px; COLOR: #333
+}
+.content_nt .footer_nt A:hover {
+	COLOR: #f00
+}
+.footer_nt A:hover {
+	COLOR: #f00
+}
+.footer_nt P A:hover {
+	COLOR: #f00
+}
+.mar_top8 {
+	MARGIN-TOP: 8px
+}
+.about_title {
+	BORDER-BOTTOM: #e1e1e1 1px solid; PADDING-BOTTOM: 17px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 955px; PADDING-RIGHT: 0px; PADDING-TOP: 19px
+}
+.about_title .l_logo {
+	PADDING-LEFT: 10px
+}
+.about_wraper {
+	LINE-HEIGHT: 24px; MARGIN: 0px auto; WIDTH: 955px; COLOR: #333;padding-bottom: 40px;
+}
+.about_wraper .mt10 {
+	MARGIN-TOP: 10px
+}
+.about_wraper A {
+	COLOR: #023399; TEXT-DECORATION: none
+}
+.about_wraper A:hover {
+	COLOR: #f11; TEXT-DECORATION: underline
+}
+.about_left {
+	WIDTH: 167px; FLOAT: left
+}
+.about_subnav {
+	MARGIN-TOP: 32px
+}
+.about_subnav LI {
+	BORDER-BOTTOM: #e6e6e6 1px solid; LINE-HEIGHT: 31px; PADDING-LEFT: 38px; HEIGHT: 31px; FONT-SIZE: 14px
+}
+.about_subnav LI A {
+	COLOR: #333;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+.about_subnav LI .active {
+	COLOR: #333; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.about_subnav LI A:hover {
+	COLOR: #333; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+.about_subnav LI A I {
+	FONT-STYLE: normal; COLOR: #9d9d9d
+}
+.about_subnav LI .active I {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+.about_subnav LI A:hover I {
+	COLOR: #666; FONT-WEIGHT: normal
+}
+.about_right {
+	WIDTH: 912px; PADDING-RIGHT: 42px; FLOAT: right
+}
+.about_wraper H2 {
+	PADDING-BOTTOM: 10px; MARGIN-TOP: 32px; MARGIN-BOTTOM: 18px; BACKGROUND: url(../../subsite/dalian/images/xsh_line.gif) repeat-x 0px bottom
+}
+.about_wraper H3 {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(https://staticwww.miercn.com/2011/header/images/about_t_line.jpg) no-repeat 0px bottom; COLOR: #8c793f; MARGIN-LEFT: 10px; FONT-SIZE: 14px; PADDING-TOP: 4px
+}
+.about_wraper H3 A {
+	COLOR: #8c793f
+}
+.about_wraper H4 {
+	FONT-SIZE: 12px; PADDING-TOP: 10px
+}
+.about_wraper H5 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal; PADDING-TOP: 10px
+}
+.about_cont_c {
+	LINE-HEIGHT: 28px; PADDING-LEFT: 10px;
+}
+.about_cont_cl {
+	LINE-HEIGHT: 22px; PADDING-LEFT: 10px
+}
+.about_cont_c P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(https://staticwww.miercn.com/2011/header/images/about_arr_b.gif) no-repeat 0px 22px; PADDING-TOP: 10px
+}
+.about_line {
+	LINE-HEIGHT: 1px; MARGIN-TOP: 19px; WIDTH: 100%; MARGIN-BOTTOM: 20px; BACKGROUND: url(../../subsite/dalian/images/xsh_line.gif) repeat-x 0px bottom; HEIGHT: 1px; CLEAR: both; FONT-SIZE: 1px
+}
+.about_line A {
+	DISPLAY: block
+}
+.about_cont_c1 {
+	LINE-HEIGHT: 26px; PADDING-LEFT: 10px
+}
+.about_hz {
+	MARGIN-TOP: 10px
+}
+.about_hz TD {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 24px; VERTICAL-ALIGN: top
+}
+.about_hz .last TD {
+	PADDING-BOTTOM: 0px
+}
+.about_dt {
+	PADDING-BOTTOM: 8px; PADDING-TOP: 10px
+}
+.about_dt IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.about_link_c {
+	LINE-HEIGHT: 34px; MARGIN-TOP: 6px; FLOAT: left; MARGIN-LEFT: 10px; _margin-left: 5px; _margin-top: 3px
+}
+.about_link_c LI {
+	WIDTH: 135px; FLOAT: left
+}
+.about_link_c A {
+	COLOR: #333
+}
+.about_link_c1 {
+	LINE-HEIGHT: 34px; MARGIN-TOP: 6px; COLOR: #999; MARGIN-LEFT: 5px
+}
+.about_link_c1 I {
+	FONT-STYLE: normal; DISPLAY: inline-block
+}
+.about_link_c1 A {
+	MARGIN: 0px 6px 0px 5px; DISPLAY: inline-block; COLOR: #333
+}
+.about_link_c1 A.more {
+	COLOR: #999
+}
+.about_link_c1 A.more:hover {
+	COLOR: #f00
+}
+.bt {
+	MARGIN-TOP: 6px; COLOR: #333; MARGIN-LEFT: 11px
+}
+.bt A {
+	COLOR: #333
+}
+.about_jop_r {
+	MARGIN-TOP: 20px; MARGIN-BOTTOM: 12px
+}
+.about_jop_r IMG {
+	BORDER-BOTTOM: #eaeaea 1px solid; BORDER-LEFT: #eaeaea 1px solid; BORDER-TOP: #eaeaea 1px solid; BORDER-RIGHT: #eaeaea 1px solid
+}
+.about_jop_zw_b {
+	PADDING-BOTTOM: 11px; MARGIN-TOP: 8px; WIDTH: 684px; MARGIN-BOTTOM: 14px; BACKGROUND: url(https://staticwww.miercn.com/2011/header/images/about_zp_b.jpg) no-repeat center bottom
+}
+.about_jop_zw {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: #e0e0e0 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 28px; PADDING-RIGHT: 0px; BORDER-TOP: #e0e0e0 1px solid; BORDER-RIGHT: #e0e0e0 1px solid; PADDING-TOP: 10px
+}
+.about_jop_zw LI {
+	LINE-HEIGHT: 30px; PADDING-LEFT: 10px; WIDTH: 120px; BACKGROUND: url(https://staticwww.miercn.com/2011/header/images/about_arr_b.gif) no-repeat 0px 12px; FLOAT: left; HEIGHT: 30px
+}
+.about_jop_zw LI A {
+	COLOR: #960
+}
+.about_jop_gw_t {
+	PADDING-LEFT: 10px; COLOR: #666; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+.about_jop_gw_t I {
+	FONT-STYLE: normal; PADDING-LEFT: 17px; COLOR: #999; FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+.about_jop_gw_c {
+	LINE-HEIGHT: 26px; PADDING-LEFT: 10px; COLOR: #666
+}
+.about_jop_gw_c .ct {
+	MARGIN-TOP: 9px
+}
+.about_jop_back {
+	TEXT-ALIGN: right; PADDING-TOP: 14px
+}
+.about_jop_back A {
+	COLOR: #999
+}
+.about_jop_bm {
+	PADDING-BOTTOM: 14px; PADDING-LEFT: 10px; FONT-SIZE: 14px; FONT-WEIGHT: bold; PADDING-TOP: 5px
+}
+.about_r_jj {
+	LINE-HEIGHT: 26px
+}
+.about_dsj TD {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 3px
+}
+.about_cont_c1 .gsdz {
+	LINE-HEIGHT: 24px
+}
+.twxczx_fhdb {
+	BORDER-BOTTOM: #d0d0d0 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #d0d0d0 1px solid; WIDTH: 18px; DISPLAY: block; BACKGROUND: url(../../2011newcar/images/carbj_arra.gif) no-repeat 1px -265px; COLOR: #d0d0d0; BORDER-TOP: #d0d0d0 1px solid; BORDER-RIGHT: #d0d0d0 1px solid; PADDING-TOP: 20px
+}
+.twxczx_fhdb:hover {
+	BORDER-BOTTOM: #d0d0d0 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #d0d0d0 1px solid; WIDTH: 18px; DISPLAY: block; BACKGROUND: url(../../2011newcar/images/carbj_arra.gif) #f7f7f7 no-repeat 1px -175px; COLOR: #666; BORDER-TOP: #d0d0d0 1px solid; BORDER-RIGHT: #d0d0d0 1px solid; TEXT-DECORATION: none; PADDING-TOP: 20px
+}
+
+
+
+.wmtp{ width:742px; height:auto;padding-top:15px;}
+.wmtp li{ width:210px; height:200px; float:left; margin:0 16px 0 21px; display:inline}
+.wmtp_p{ text-align:center; line-height:18px; margin-top:5px;}
+
+
+
+.text1 {
+	LINE-HEIGHT: 18px; FONT-FAMILY: "ËÎÌå"; COLOR: #000000; FONT-SIZE: 12px; TEXT-DECORATION: none
+}

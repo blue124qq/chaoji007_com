@@ -1,0 +1,168 @@
+#footer {
+    width: 1003px;
+     border-top:1px solid #ddd;
+	background: transparent;
+	margin:0 auto;
+}
+
+#footer .footer_content {
+    width: 1004px;
+   
+    margin: 0 auto;
+    padding: 20px 0;
+    line-height: 26px;
+    font-family: SimSun;
+    color: #5a5a5a
+}
+
+#footer .footer_content .links {
+    text-align: center;
+    height: 26px;
+    line-height: 20px;
+    width: 100%
+}
+
+#footer .footer_content .links a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #5a5a5a
+}
+
+#footer .footer_content .links span {
+    padding: 0 10px;
+    color: #ebebeb;
+}
+
+#footer .footer_content .links a:hover {
+    text-decoration: underline;
+    color: #c00
+}
+
+#footer .footer_content .copy_rights {
+    text-align: center;
+    font-size: 12px;
+    height: 28px;
+}
+
+#footer .footer_content .copy_right_info {
+    text-align: center;
+    font-size: 12px;
+    height: 30px;
+}
+
+/*手机样式*/
+#footer .footer_content .links #f_mobile{
+	display: inline-block;
+	position: relative;
+}
+#footer .footer_content .links #f_mobile:hover{
+	text-decoration: none;
+}
+#footer .footer_content .links #f_mobile #f_qrcode{
+	position: absolute;
+	left:0;
+	top:-280px;
+	display: block;
+	width:260px;
+	display: none;
+    z-index: 9;
+}
+#footer .footer_content .links #f_mobile span{
+    color: #5a5a5a
+} 
+#footer .footer_content .links #f_mobile i.f_hot{
+	font-style: normal;
+	font-size:9px;
+    color: #fff;
+    padding:2px 6px;
+    background:#f56e44;
+    border-radius:3px;
+    margin-left:-14px;
+}
+.soredian {
+     display: none;
+    width: 313px;
+    height: 231px;
+    border: 1px solid #e7e7e7;
+    position: absolute;
+    overflow: hidden;
+    border-top: none;
+    right: 140px;
+    top: 75px;
+    background: #fff;
+}
+.soredian a {
+    display: block;
+    height: 29px;
+    line-height: 29px;
+    font-size: 14px;
+    color: #333;
+}
+.soredian a em {
+    overflow: hidden;
+    margin: 7px 9px 0 0;
+    width: 14px;
+    height: 14px;
+    line-height: 14px;
+    font-size: 11px;
+    text-align: center;
+    color: #fff;
+    font-style: normal;
+    background: #a9a9a9;
+    margin-left: 11px;
+    float: left;
+    display: inline;
+}
+.bbg {
+    height: 55px;
+    width: 100%;
+    background: #323232;
+    padding-top: 20px;
+    font-size: 12px;
+}
+.bq {
+    width: 960px;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    color: #dbdbdb;
+    height: 25px;
+}
+.bq a {
+    color: #dbdbdb;
+}
+.bq a:hover {
+    color: #dbdbdb;
+}
+.logo_m {
+    width: 313px;
+    height: 34px;
+    float: right;
+    background: #ffffff;
+    border: 1px solid #e7e7e7;
+    margin-top: 10px;
+}
+form {
+    display: block;
+    margin-top: 0;
+}
+.search_input {
+    width: 260px;
+    float: left;
+    border: 0;
+    padding: 0 0 0 8px;
+    color: #999;
+    height: 20px;
+    border: none;
+    font-size: 14px;
+    margin: 7px 0 0 5px;
+    margin: 10px 0 0 5px \9;
+    outline: none;
+}
+.search_botton {
+    cursor: pointer;
+    float: right;
+    height: 14px;
+    overflow: hidden;
+    width: 14px;
+    margin: 11px 11px 0 0;
+}

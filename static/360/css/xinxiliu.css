@@ -1,0 +1,48 @@
+
+    ul.tjnewsrcontent .recommend_news_many p.img-wrap span.one_img{
+        width: 640px;
+        height: 213px;
+    }
+
+
+    /* 关键词推荐 */
+    .fl { float: left; }
+    .fr { float: right; }
+    .clearfix:after{content:""; display:block; visibility:hidden; height:0; clear:both;}
+    .clearfix{zoom:1;}
+
+    .hot_word_recommend {
+        width: 640px;
+        margin: 16px 0;
+    }
+    .hot_word_lists {
+        width: 100%;
+    }
+    .hot_word_item {
+        width: 201px;
+        height: 32px;
+        line-height: 32px;
+        margin: 0 12px 0 0;
+    }
+    .hot_word_item i {
+        width: 4px;
+        height: 4px;
+        background: #7195b7;
+        margin: 15px 6px 0 0;
+    }
+    .hot_word_item a {
+        max-width: 191px;
+        font-size: 18px;
+        overflow: hidden;
+        color: #333;
+        white-space: nowrap;
+    }
+    .hot_word_item a:hover {
+        color: #ec4b4b;
+    }
+    .special-more-under {
+        width: 145px;
+        margin-top: 10px;
+        float: left;
+    }
+	 

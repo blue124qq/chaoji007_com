@@ -1,0 +1,35 @@
+.plugin-newspush a,
+.plugin-newspush-close { background:url("../images/sprites.png") no-repeat;}
+.plugin-newspush { height:48px; background:#cceeff; border:1px solid #8bc6e4; text-align:left; font:18px/48px "Microsoft Yahei", simhei; float:left; position:relative;}
+.plugin-newspush a { color:#f00;; text-decoration:none; padding-left:52px; background-position:0 -50px; display:block; height:48px; overflow:hidden; float:left; display:inline; margin-right:45px;}
+.plugin-newspush a:hover { color:#f00; text-decoration:none;}
+.plugin-newspush-close { cursor:pointer; width:36px; height:36px; position:absolute; right:1px; top:6px; background-position:0 -100px;}
+
+
+/*右侧广告样式  大图*/
+.m-listA li.item-gg {
+    padding: 0;
+    height: auto !important;
+}
+.hot-item>div>.newsfeed{
+    width: 100% !important;
+    height: auto !important;
+}
+.hot-item>div>.newsfeed .largeImage{
+    padding: 0 !important;
+    background-color: transparent !important;
+    width: 100% !important;
+    height: auto !important;
+}
+.hot-item>div>.newsfeed .largeImage .largeImage-wrapper{
+    width: 100% !important;
+    height: auto !important;
+}
+.hot-item>div>.newsfeed .largeImage .largeImage-title{
+    font-size: 15px !important;
+}
+.hot-item>div>.newsfeed .largeImage .largeImage-grid-wrap .img{
+    width: 100% !important;
+    height: 120px !important;
+    background-size: 100% 100% !important;
+}
